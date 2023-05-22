@@ -14,7 +14,7 @@ const ImageCarousel = () => {
     // 'https://dummyimage.com/600x400/000/fff&text=Image+3',
     // 'https://dummyimage.com/600x400/000/fff&text=Image+4',
     // 'https://dummyimage.com/600x400/000/fff&text=Image+5',
-    'https://media.licdn.com/dms/image/D4D03AQFymnKp2uuNNA/profile-displayphoto-shrink_400_400/0/1679798207480?e=1687996800&v=beta&t=EyhD2inm_Jg9TW1Rc_b7l0n6j4_uUX98L9DttZNlRic',
+    'https://media.licdn.com/dms/image/D4D03AQF9SqhKtZ37Ig/profile-displayphoto-shrink_800_800/0/1684522515636?e=1690416000&v=beta&t=BJpCmikZRrCNfHqTZdcgJNmlbU73UhO3DjPOd12vsPI',
     'https://media.licdn.com/dms/image/D4D03AQGh-_MvHngZZA/profile-displayphoto-shrink_400_400/0/1681820717759?e=1687996800&v=beta&t=yyY8XdQ-uOZfYb5QthUO0UBLUl619kE05eo8W8pMrRo',
     'https://media.licdn.com/dms/image/D5603AQGzpII34HvrFw/profile-displayphoto-shrink_400_400/0/1682189228581?e=1687996800&v=beta&t=Uz27YYF0QupxznLaCWnylR49A5djP-tN76qLX_fzW4s',
   ];
